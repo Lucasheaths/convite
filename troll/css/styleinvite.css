@@ -1,0 +1,46 @@
+@media screen and (max-width: 500px){
+    body{
+        background-image: url(http://d3ugyf2ht6aenh.cloudfront.net/stores/438/755/products/dpfl338-58x581-451be64fd93d12cad815954442070456-640-0.jpg);
+    }
+    #pic{
+        width: 100%;
+        padding: 0;
+    }
+    
+}
+
+body{
+    background-image: url(http://d3ugyf2ht6aenh.cloudfront.net/stores/438/755/products/dpfl338-58x581-451be64fd93d12cad815954442070456-640-0.jpg);
+    background-attachment: fixed;
+}
+
+#pic{
+    padding-left: 420px;
+    width: 500px;
+    align-items: center;
+}
+
+.confirmar{
+    border-radius: 8px;
+    margin-left: 555px;
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 13pt;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.presentes{
+    border-radius: 8px;
+    margin-left: 552px;
+    margin-top: 25px;
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 13pt;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
